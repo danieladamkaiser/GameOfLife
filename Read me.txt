@@ -1,0 +1,4 @@
+LMB/RMB - make cell alive/dead
+space - simulate life
+-/+ - zoom/unzoom
+arrows - scroll camera
